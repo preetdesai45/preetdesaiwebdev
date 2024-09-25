@@ -4,6 +4,8 @@
 
 I'm a passionate web developer from India, dedicated to crafting beautiful and responsive websites. I love turning ideas into reality and continuously learning about the latest technologies in the web development world.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=preetdesai&label=Profile%20views&color=0e75b6&style=flat" alt="preetdesai" /> </p>
+
 ---
 
 ### 💻 About Me
