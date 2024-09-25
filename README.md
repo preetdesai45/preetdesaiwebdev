@@ -25,6 +25,19 @@ I'm a passionate web developer from India, dedicated to crafting beautiful and r
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+---
+
+---
+### 🌟 Projects Showcase
+
+Here are a few projects I've worked on:
+
+- **[Project One](https://link-to-your-project.com)**: A brief description of what this project is about and the technologies used.
+- **[Project Two](https://link-to-your-project.com)**: A brief description of what this project is about and the technologies used.
+- **[Project Three](https://link-to-your-project.com)**: A brief description of what this project is about and the technologies used.
 
 ---
 
@@ -49,5 +62,8 @@ I'm a passionate web developer from India, dedicated to crafting beautiful and r
 I enjoy exploring new cultures and cuisines! 🌎🍜
 
 ---
+Inspiration & Motivation
+
+_"The best way to predict the future is to invent it."_ – Alan Kay
 
 Thanks for stopping by! Feel free to reach out or connect with me. Let’s build something amazing together! 🚀
